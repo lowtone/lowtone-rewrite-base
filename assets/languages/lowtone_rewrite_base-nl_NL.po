@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rewrite Base\n"
+"POT-Creation-Date: 2013-10-15 16:08+0100\n"
+"PO-Revision-Date: 2013-10-15 16:08+0100\n"
+"Last-Translator: Paul van der Meijs <info@lowtone.nl>\n"
+"Language-Team: Lowtone <info@lowtone.nl>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../lowtone-rewrite-base.php:48
+msgid "Rewrite base"
+msgstr "Rewrite-basis"
+
+#: ../../lowtone-rewrite-base.php:50
+msgid ""
+"These values are used in rewrite rules, for example to define pagination."
+msgstr ""
+"Deze waarden worden in andere herschrijfregels gebruikt, bijvoorbeeld voor "
+"het definiëren van paginering."
+
+#: ../../lowtone-rewrite-base.php:57
+msgid " base"
+msgstr ""
+
+#: ../../assets/languages/strings.php:2
+msgid "Author base"
+msgstr "Auteursbasis"
+
+#: ../../assets/languages/strings.php:3
+msgid "Search base"
+msgstr "Zoekbasis"
+
+#: ../../assets/languages/strings.php:4
+msgid "Comments base"
+msgstr "Reactiesbasis"
+
+#: ../../assets/languages/strings.php:5
+msgid "Pagination base"
+msgstr "Pagineringsbasis"
+
+#: ../../assets/languages/strings.php:6
+msgid "Feed base"
+msgstr "Feedbasis"
+
+#~ msgid "%s archive"
+#~ msgstr "%s archief"
+
+#~ msgid "Create %s archive"
+#~ msgstr "Een %s archief aanmaken"
+
+#~ msgid ""
+#~ "If selected, an overview of terms will be available at <a href=\"%1$s\">"
+#~ "%1$s</a>."
+#~ msgstr ""
+#~ "Wanneer deze optie geselecteerd is zal er een overzicht van termen "
+#~ "beschikbaar zijn op <a href=\"%1$s\">%1$s</a>."
+
+#~ msgid "Save"
+#~ msgstr "Opslaan"
+
+#~ msgid "Field"
+#~ msgstr "Vakgebied"
+
+#~ msgid "A summary of courses within the selected field."
+#~ msgstr "Een overzicht van opleidingen binnen een geselecteerd vakgebied."
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Latest courses in %s"
+#~ msgstr "Laatste opleidingen in %s"
